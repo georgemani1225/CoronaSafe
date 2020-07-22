@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#202F65</item>
+        <item name="colorPrimaryDark">#202F65</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="ToolBarTheme" parent="ThemeOverlay.AppCompat.Dark">
+        <item name="android:fontFamily">@font/nunito_sans_bold</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="ToolBarThemeV" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#d50000</item>
+        <item name="colorPrimaryDark">#d50000</item>
+        <item name="titleTextColor">#ffffff</item>
+        <item name="android:fontFamily">@font/nunito_sans_bold</item>
+        <item name="android:textColorSecondary">#ffffff</item>
+    </style>
+
+    <style name="ToolbarTextAppearance">
+        <item name="android:fontFamily">@font/nunito_sans_bold</item>
+    </style>
+</resources>

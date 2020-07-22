@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Corona Safe</string>
+
+    <string name="symptoms">Symptoms</string>
+    <string name="fever">Fever</string>
+    <string name="cough">Dry cough</string>
+    <string name="difficulty_breathing">Difficulty\nbreathing</string>
+    <string name="runny_nose">Nasal\nsecretions</string>
+    <string name="sore_throat">Throat\npain</string>
+
+    <string name="admob_app_id">ca-app-pub-2125877317262547~3255480157</string>
+    <string name="admob_banner_ad">ca-app-pub-2125877317262547/6285802323</string>
+
+
+
+    <string name="symptoms_title_1">What is COVID-19?</string>
+    <string name="symptoms_desc_1">COVID-19 is the most recently discovered infectious disease caused by the coronavirus. Both the new virus and the disease were unknown before the outbreak in Wuhan, China, in December 2019.</string>
+    <string name="symptoms_title_2">What are the symptoms of COVID-19?</string>
+    <string name="symptoms_desc_2">The most common symptoms of COVID-19 are fever, tiredness, and dry cough. Some patients may experience pain, nasal congestion, runny nose, sore throat, or diarrhea. These symptoms are usually mild and appear gradually. Some people become infected but do not develop any symptoms and are not ill. Most people (about 80%) recover from the disease without needing any special treatment. About 1 in 6 people who get COVID-19 develop a serious illness and have trouble breathing. Older people and those with underlying medical conditions, such as high blood pressure, heart problems, or diabetes, are more likely to develop serious illness. About 2% of people who have contracted the disease have died. People with fever, cough, and shortness of breath should seek medical attention.</string>
+    <string name="symptoms_title_3">Do you suspect that you or someone close to you may be infected?</string>
+
+</resources>
